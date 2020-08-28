@@ -1,3 +1,4 @@
+#Note: This program is from PiCamera Documentation 
 import io
 import picamera
 import logging
