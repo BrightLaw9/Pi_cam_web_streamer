@@ -1,0 +1,6 @@
+[submodule "camera_streaming"]
+	path = BrickPi_web_cam_streamer/camera_streaming
+	url = https://github.com/BrightLaw9/Pi_cam_web_streamer
+[submodule "remote_keyboard_control"]
+	path = remote_keyboard_control
+	url = https://github.com/BrightLaw9/Pi_cam_web_streamer
