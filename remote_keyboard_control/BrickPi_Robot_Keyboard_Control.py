@@ -33,13 +33,17 @@ class Robot:
 
 robo = Robot()
 
-try:
+def main(): 
     while True:
         robo.extract_key()
           if check_exit:
             break
-        robo.implement()    
-    
+        robo.implement()   
+
+try: 
+    if __name__ == '__main__': 
+        main() 
+        
 finally:
     robo.reset_env() 
 
